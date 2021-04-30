@@ -1,0 +1,12 @@
+/home/chyld/Temp/gamma/BankingService/bin/Debug/net5.0/BankingService.deps.json
+/home/chyld/Temp/gamma/BankingService/bin/Debug/net5.0/BankingService.dll
+/home/chyld/Temp/gamma/BankingService/bin/Debug/net5.0/ref/BankingService.dll
+/home/chyld/Temp/gamma/BankingService/bin/Debug/net5.0/BankingService.pdb
+/home/chyld/Temp/gamma/BankingService/obj/Debug/net5.0/BankingService.csprojAssemblyReference.cache
+/home/chyld/Temp/gamma/BankingService/obj/Debug/net5.0/BankingService.GeneratedMSBuildEditorConfig.editorconfig
+/home/chyld/Temp/gamma/BankingService/obj/Debug/net5.0/BankingService.AssemblyInfoInputs.cache
+/home/chyld/Temp/gamma/BankingService/obj/Debug/net5.0/BankingService.AssemblyInfo.cs
+/home/chyld/Temp/gamma/BankingService/obj/Debug/net5.0/BankingService.csproj.CoreCompileInputs.cache
+/home/chyld/Temp/gamma/BankingService/obj/Debug/net5.0/BankingService.dll
+/home/chyld/Temp/gamma/BankingService/obj/Debug/net5.0/ref/BankingService.dll
+/home/chyld/Temp/gamma/BankingService/obj/Debug/net5.0/BankingService.pdb

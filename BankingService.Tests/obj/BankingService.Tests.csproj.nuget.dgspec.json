@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/chyld/Temp/gamma/BankingService.Tests/BankingService.Tests.csproj": {}
+  },
+  "projects": {
+    "/home/chyld/Temp/gamma/BankingService.Tests/BankingService.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/chyld/Temp/gamma/BankingService.Tests/BankingService.Tests.csproj",
+        "projectName": "BankingService.Tests",
+        "projectPath": "/home/chyld/Temp/gamma/BankingService.Tests/BankingService.Tests.csproj",
+        "packagesPath": "/home/chyld/.nuget/packages/",
+        "outputPath": "/home/chyld/Temp/gamma/BankingService.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/chyld/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/chyld/Temp/gamma/BankingService/BankingService.csproj": {
+                "projectPath": "/home/chyld/Temp/gamma/BankingService/BankingService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/chyld/Temp/gamma/BankingService/BankingService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/chyld/Temp/gamma/BankingService/BankingService.csproj",
+        "projectName": "BankingService",
+        "projectPath": "/home/chyld/Temp/gamma/BankingService/BankingService.csproj",
+        "packagesPath": "/home/chyld/.nuget/packages/",
+        "outputPath": "/home/chyld/Temp/gamma/BankingService/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/chyld/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

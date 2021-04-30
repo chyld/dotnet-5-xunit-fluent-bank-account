@@ -1,0 +1,7 @@
+ dot sln add CalculatorService.Tests/CalculatorService.Tests.csproj
+ dot new classlib -o BankingService
+ dot new xunit -o BankingService.Tests
+ dot sln add BankingService/BankingService.csproj
+ dot sln add BankingService.Tests/BankingService.Tests.csproj
+ dot add BankingService.Tests/BankingService.Tests.csproj reference BankingService/BankingService.csproj
+ dot add BankingService.Tests/BankingService.Tests.csproj package FluentAssertions
